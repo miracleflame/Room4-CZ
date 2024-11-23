@@ -1,0 +1,190 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 238
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 3256
+ 1 string m_Name = ""
+ 0 PPtr<$Material> m_Material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 Color m_Color
+  0 float r = 1
+  0 float g = 1
+  0 float b = 1
+  0 float a = 1
+ 1 UInt8 m_RaycastTarget = 1
+ 1 UInt8 m_Maskable = 1
+ 0 CullStateChangedEvent m_OnCullStateChanged
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    1 Array Array (0 items)
+     0 int size = 0
+ 1 string m_text = "Lokalizace\r\nmiracle.flame\r\nDannySemCZ\r\n\r\nDeveloped by\r\nFireproof Games\r\n\r\nChris Cannon\r\nTony Cartwright\r\nLuke Coombes\r\nRob Dodd\r\nSimon Fawcett\r\nDerek Germain\r\nMark Hamilton\r\nJeremy Linares\r\nBarry Meade\r\nLyndon Munt\r\nDave Rack\r\nDamien Rayfield\r\nRoger Schembri\n\rTom Seed\r\nDave Smeathers\r\nVasileios Tsagkaropoulos \r\nSimon Watson\nDaisy Williams\r\nTom Woodbridge\r\n\nWith Special thanks to\r\n\r\nMusic and Sound Design - Soundcuts Ltd\r\nWriting - Oliver Reid-Smith \r\nQuality Assurance - Keywords\r\nLocalisation - Universally Speaking Ltd.\r\nStock Imagery - Vecteezy.com\r\n\r\nVoice Actors\r\n\r\nBernardo La Rocque\r\nSam Newman\r\nMartin Oelbermann\r\nDevrim Evin\r\nOlegar Fedoro\r\nTom Tunstall\r\nSimone Leonardi\r\nDavid Morely-Hale\r\n\r\nMade with Unity\r\n \r\nFireproof Studios Ltd © 2021. Fireproof Games is a Division of Fireproof Studios Ltd, Reg. in England Co. Reg. No. 6687549. Registered under the Data Protection Act Reg. ZA055154. ‘Fireproof’, ‘The Room’ and the ‘X’ logos are Registered Trademarks of Fireproof Studios Ltd - All Rights Reserved. All other trademarks, logos and trade names are the property of their respective owners."
+ 1 UInt8 m_isRightToLeft = 0
+ 0 PPtr<$TMP_FontAsset> m_fontAsset
+  0 int m_FileID = 4
+  0 SInt64 m_PathID = 3750
+ 0 PPtr<$Material> m_sharedMaterial
+  0 int m_FileID = 4
+  0 SInt64 m_PathID = 43
+ 0 vector m_fontSharedMaterials
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 PPtr<$Material> m_fontMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 vector m_fontMaterials
+  1 Array Array (0 items)
+   0 int size = 0
+ 0 Color32 m_fontColor32
+  0 unsigned int rgba = 4284121238
+ 0 Color m_fontColor
+  0 float r = 0,5882353
+  0 float g = 0,5019608
+  0 float b = 0,3529412
+  0 float a = 1
+ 1 UInt8 m_enableVertexGradient = 0
+ 0 VertexGradient m_fontColorGradient
+  0 Color topLeft
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color topRight
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color bottomLeft
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+  0 Color bottomRight
+   0 float r = 1
+   0 float g = 1
+   0 float b = 1
+   0 float a = 1
+ 0 PPtr<$TMP_ColorGradient> m_fontColorGradientPreset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_SpriteAsset> m_spriteAsset
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_tintAllSprites = 0
+ 1 UInt8 m_overrideHtmlColors = 0
+ 0 Color32 m_faceColor
+  0 unsigned int rgba = 4294967295
+ 0 Color32 m_outlineColor
+  0 unsigned int rgba = 4278190080
+ 0 float m_fontSize = 20
+ 0 float m_fontSizeBase = 20
+ 0 int m_fontWeight = 400
+ 1 UInt8 m_enableAutoSizing = 0
+ 0 float m_fontSizeMin = 18
+ 0 float m_fontSizeMax = 72
+ 0 int m_fontStyle = 0
+ 0 int m_textAlignment = 514
+ 1 UInt8 m_isAlignmentEnumConverted = 1
+ 0 float m_characterSpacing = 0
+ 0 float m_wordSpacing = 0
+ 0 float m_lineSpacing = 0
+ 0 float m_lineSpacingMax = 0
+ 0 float m_paragraphSpacing = 0
+ 0 float m_charWidthMaxAdj = 0
+ 1 UInt8 m_enableWordWrapping = 1
+ 0 float m_wordWrappingRatios = 0,4
+ 0 int m_overflowMode = 0
+ 0 int m_firstOverflowCharacterIndex = 598
+ 0 PPtr<$TMP_Text> m_linkedTextComponent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_isLinkedTextComponent = 0
+ 1 UInt8 m_enableKerning = 1
+ 1 UInt8 m_enableExtraPadding = 0
+ 1 UInt8 checkPaddingRequired = 0
+ 1 UInt8 m_isRichText = 1
+ 1 UInt8 m_parseCtrlCharacters = 1
+ 1 UInt8 m_isOrthographic = 1
+ 1 UInt8 m_isCullingEnabled = 0
+ 1 UInt8 m_ignoreRectMaskCulling = 0
+ 1 UInt8 m_ignoreCulling = 1
+ 0 int m_horizontalMapping = 0
+ 0 int m_verticalMapping = 0
+ 0 float m_uvLineOffset = 0
+ 0 int m_geometrySortingOrder = 0
+ 0 int m_firstVisibleCharacter = 0
+ 1 UInt8 m_useMaxVisibleDescender = 1
+ 0 int m_pageToDisplay = 1
+ 0 Vector4 m_margin
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+  0 float w = 0
+ 0 TMP_TextInfo m_textInfo
+  0 PPtr<$TMP_Text> textComponent
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 2066
+  0 int characterCount = 1069
+  0 int spriteCount = 0
+  0 int spaceCount = 163
+  0 int wordCount = 153
+  0 int linkCount = 0
+  0 int lineCount = 48
+  0 int pageCount = 1
+  0 int materialCount = 1
+ 1 UInt8 m_havePropertiesChanged = 0
+ 1 UInt8 m_isUsingLegacyAnimationComponent = 0
+ 1 UInt8 m_isVolumetricText = 0
+ 0 PPtr<$TMP_SpriteAnimator> m_spriteAnimator
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_isInputParsingRequired = 0
+ 0 int m_inputSource = 0
+ 1 UInt8 m_hasFontAssetChanged = 1
+ 0 vector m_subTextObjects
+  1 Array Array (8 items)
+   0 int size = 8
+   [0]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [1]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 1851
+   [2]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [3]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [4]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [5]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [6]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+   [7]
+    0 PPtr<$TMP_SubMeshUI> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 0
+ 0 PPtr<$Material> m_baseMaterial
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 Vector4 m_maskOffset
+  0 float x = 0
+  0 float y = 0
+  0 float z = 0
+  0 float w = 0
